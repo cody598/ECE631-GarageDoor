@@ -1,1 +1,2 @@
-# ECE631-GarageDoor
+# FinalProject_GarageDoor
+
